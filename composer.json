@@ -1,0 +1,14 @@
+{
+    "name": "creativestyle/content-constructor-frontend",
+    "description": "Magento2 Content Constructor package",
+    "homepage": "https://creativestyle.de",
+    "license": "OSL-3.0",
+    "require": {
+        "creativestyle/creative-patterns": "~1.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Creativestyle\\ContentConstructorFrontend\\": "src/"
+        }
+    }
+}
